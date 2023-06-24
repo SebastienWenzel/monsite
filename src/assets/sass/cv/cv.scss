@@ -1,0 +1,9 @@
+.article{
+    text-align: center;
+    padding-top: 6rem;
+    margin-bottom: 2rem;
+    &--title{
+        margin: 2rem 0;
+        font-size: 2rem;
+    }
+}

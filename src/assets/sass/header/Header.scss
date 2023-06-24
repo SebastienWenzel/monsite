@@ -1,0 +1,130 @@
+
+nav{
+  position: fixed;
+  width: 100%;
+  z-index: 200;
+
+
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2rem 2rem;
+    background-color: $background;
+    margin: 0 auto;
+    box-shadow: 0 0 10px rgba(0,0,0,1);
+    
+  
+    &__links {
+      display: flex;
+      list-style: none;
+      gap: 2.1rem;
+  
+      a {
+        font-size: 1rem;
+        
+        font-weight: 600;
+        text-decoration: none;
+        cursor: pointer;
+        transition: all 0.3s;
+  
+        &:hover {
+          color: white;
+        }
+      }
+  
+      @media (max-width: 700px) {
+        display: none;
+      }
+    }
+  
+    &__buttons {
+      display: flex;
+      gap: 2.5rem;
+      font-size: 1rem;
+
+      font-weight: 500;
+      align-items: center;
+  
+      @media (max-width: 700px) {
+        display: none;
+      }
+      }
+  
+      a {
+        text-decoration: none;
+      }
+    }
+  
+  
+  //  mobile nav
+  
+  .mobile-hamb {
+    font-size: 2.8rem;
+    display: none;
+    cursor: pointer;
+    transition: all 0.3s;
+  
+    &:hover {
+      color:white;
+    }
+  
+    @media (max-width: 700px) {
+      display: flex;
+    }
+  }
+  
+  .mobile-navbar {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    left: -100%;
+    background-color:$background;
+    z-index: 999999;
+    justify-content: center;
+    align-items: center;
+    transition: all 0.5s ease-in-out;
+    
+    &__close {
+      font-size: 3rem;
+      position: absolute;
+      top: 3.5rem;
+      right: 3.5rem;
+      cursor: pointer;
+      transition: all 0.3s;
+  
+      &:hover {
+        color:white;
+      }
+    }
+  
+    &__links {
+      display: flex;
+      flex-direction: column;
+      list-style: none;
+      font-size: 2.3rem;
+      gap: 3rem;
+      text-align: center;
+  
+      li {
+        a {
+          text-decoration: none;
+          font-weight: 500;
+          transition: all 0.3s;
+  
+          &:hover {
+            color:white;
+          }
+        }
+      }
+    }
+  }
+  
+  .open-nav {
+    left: 0;
+  }

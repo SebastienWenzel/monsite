@@ -1,0 +1,39 @@
+* {
+    scrollbar-width: thin;
+    scrollbar-color: #ff4d30 #f8f8f8;
+  }
+  
+  /* Chrome, Edge and Safari */
+  *::-webkit-scrollbar {
+    width: 10px;
+    width: 10px;
+  }
+  *::-webkit-scrollbar-track {
+    border-radius: 5px;
+    background-color:#f8f8f8;
+  }
+  
+  *::-webkit-scrollbar-track:hover {
+    background-color:#f8f8f8;
+  }
+  
+  *::-webkit-scrollbar-track:active {
+    background-color:#f8f8f8;
+  }
+  
+  *::-webkit-scrollbar-thumb {
+    border-radius: 20px;
+    background-color:#8c7db0;
+  }
+  
+  *::-webkit-scrollbar-thumb:hover {
+    background-color:#8c7db0;
+  }
+  
+  *::-webkit-scrollbar-thumb:active {
+    background-color: #8c7db0;
+  }
+
+  .Layout{
+    height: 100vh;
+  }
