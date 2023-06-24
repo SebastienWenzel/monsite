@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/monsite/static/css/main.39e8ebdf.css",
+    "main.js": "/monsite/static/js/main.13c28093.js",
+    "static/media/seeeb.png": "/monsite/static/media/seeeb.17235d8b36115d1c0772.png",
+    "static/media/pe.png": "/monsite/static/media/pe.150b9cd0b1c2be055392.png",
+    "static/media/pc.png": "/monsite/static/media/pc.b6b272c9a80c72bc3687.png",
+    "static/media/backgroundpage.jpg": "/monsite/static/media/backgroundpage.1cb6d11c2c491cd2f1fd.jpg",
+    "static/media/pb.png": "/monsite/static/media/pb.d2f915a4660ceb48161e.png",
+    "static/media/pd.png": "/monsite/static/media/pd.7ead7c37f59a9dc633af.png",
+    "static/media/cv.png": "/monsite/static/media/cv.3a37c0012b37d4027ae0.png",
+    "static/media/homespeciale.jpg": "/monsite/static/media/homespeciale.ad57068a8c08f15f5b78.jpg",
+    "static/media/mongodbicone.svg": "/monsite/static/media/mongodbicone.b508609b24c1a2bc58576411df58bb4b.svg",
+    "static/media/reacticone.svg": "/monsite/static/media/reacticone.afac9c43724070bf6674f2692b7356a9.svg",
+    "static/media/nodejsicon.svg": "/monsite/static/media/nodejsicon.615ffbea9529ca7047ed8a912bfd94b2.svg",
+    "static/media/sass.svg": "/monsite/static/media/sass.67cd0525916c4cdea4eb3abd8ae11137.svg",
+    "index.html": "/monsite/index.html",
+    "static/media/javascripticone.svg": "/monsite/static/media/javascripticone.de4c2594613e34b15666206bbede7327.svg",
+    "static/media/cssicone.svg": "/monsite/static/media/cssicone.9cecabbf6ce67609c48bc4f280a11002.svg",
+    "static/media/html.svg": "/monsite/static/media/html.6e7b1b463015c056aeb9a624c8dc2876.svg",
+    "main.39e8ebdf.css.map": "/monsite/static/css/main.39e8ebdf.css.map",
+    "main.13c28093.js.map": "/monsite/static/js/main.13c28093.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39e8ebdf.css",
+    "static/js/main.13c28093.js"
+  ]
+}
