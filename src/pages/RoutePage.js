@@ -8,7 +8,7 @@ const RoutePage = () => {
             <Route element={<Layout/>}>
                 {/* route ENFANT */}
                 <Route index element ={<Home/>} />
-                <Route path="/monsite" element={<Home/>} />
+                <Route path="/monsite/" element={<Home/>} />
                 <Route path="/vitae" element={<Vitae/>} />
                 <Route path="*" element={<NotFound/>} />  
             </Route>
