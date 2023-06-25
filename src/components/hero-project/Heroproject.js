@@ -3,6 +3,7 @@ import PB from "./project/pb.png"
 import PC from "./project/pc.png"
 import PD from "./project/pd.png"
 import PE from "./project/pe.png"
+import PF from "./project/pf.png"
 const Heroproject = () => {
     return (
         <section className="heroproject" id='projets'>
@@ -31,9 +32,9 @@ const Heroproject = () => {
             <article className="heroproject_list_article">
                 <div className="heroproject_list_article--image">
                     <figure>
-                        <a href="https://xsenikx.github.io/WenzelSebastien_ProjetOC_4_03-03-2022-optimiser/">
+                        <a href="https://github.com/xsenikx/WenzelSebastien_22_02_2023">
 
-                            <img src={PE} alt='Ohmyfood'/>
+                            <img src={PF} alt='Ohmyfood'/>
                             <div className="loupe">
                                 <i class="fa-solid fa-magnifying-glass"></i>
                             </div>
@@ -49,7 +50,7 @@ const Heroproject = () => {
             <article className="heroproject_list_article">
                 <div className="heroproject_list_article--image">
                     <figure>
-                        <a href="https://xsenikx.github.io/WenzelSebastien_ProjetOC_4_03-03-2022-optimiser/">
+                        <a href="https://github.com/xsenikx/WenzelSebastien_ProjetOC_5_29-06-2022">
 
                             <img src={PE} alt='Ohmyfood'/>
                             <div className="loupe">
