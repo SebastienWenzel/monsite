@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/monsite/static/css/main.e7152a5d.css",
-    "main.js": "/monsite/static/js/main.d1517815.js",
+    "main.css": "/monsite/static/css/main.61faa7d8.css",
+    "main.js": "/monsite/static/js/main.44ed1180.js",
     "static/media/seeeb.png": "/monsite/static/media/seeeb.1f5c1b7b7153c103878d.png",
     "static/media/pe.png": "/monsite/static/media/pe.436b4f336ed310283515.png",
     "static/media/backgroundpage.jpg": "/monsite/static/media/backgroundpage.1cb6d11c2c491cd2f1fd.jpg",
     "static/media/pa.png": "/monsite/static/media/pa.10b11c54be9f1da03478.png",
     "static/media/pd.png": "/monsite/static/media/pd.7a1c12db747c4d496865.png",
     "static/media/pc.png": "/monsite/static/media/pc.f7373aa5ec9a8f8fc1cd.png",
-    "static/media/cv.png": "/monsite/static/media/cv.3a37c0012b37d4027ae0.png",
+    "static/media/cv.png": "/monsite/static/media/cv.6c6b5c560d81a373ef9d.png",
     "static/media/pb.png": "/monsite/static/media/pb.73cc44b0a7e3c974e052.png",
     "static/media/homespeciale.jpg": "/monsite/static/media/homespeciale.ad57068a8c08f15f5b78.jpg",
     "static/media/pf.png": "/monsite/static/media/pf.9d7779b099f9d7b69a94.png",
@@ -20,11 +20,11 @@
     "static/media/javascripticone.svg": "/monsite/static/media/javascripticone.de4c2594613e34b15666206bbede7327.svg",
     "static/media/cssicone.svg": "/monsite/static/media/cssicone.9cecabbf6ce67609c48bc4f280a11002.svg",
     "static/media/html.svg": "/monsite/static/media/html.6e7b1b463015c056aeb9a624c8dc2876.svg",
-    "main.e7152a5d.css.map": "/monsite/static/css/main.e7152a5d.css.map",
-    "main.d1517815.js.map": "/monsite/static/js/main.d1517815.js.map"
+    "main.61faa7d8.css.map": "/monsite/static/css/main.61faa7d8.css.map",
+    "main.44ed1180.js.map": "/monsite/static/js/main.44ed1180.js.map"
   },
   "entrypoints": [
-    "static/css/main.e7152a5d.css",
-    "static/js/main.d1517815.js"
+    "static/css/main.61faa7d8.css",
+    "static/js/main.44ed1180.js"
   ]
 }
