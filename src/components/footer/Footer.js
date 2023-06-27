@@ -16,7 +16,7 @@ const Footer = () => {
                 <p>+687 83 34 39</p>
             </div>
             <div className="div4">
-                <p>© 2020 Webzel | Créateur de solution digital.</p>
+                <p>© 2022 Webzel | Créateur de solution digital.</p>
             </div>
         </div>
     );

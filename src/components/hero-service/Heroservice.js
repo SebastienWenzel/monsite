@@ -31,7 +31,7 @@ const Heroservice = () => {
                                 <span><i class="fa-solid fa-magnifying-glass"></i></span>
                                 <h4>SEO</h4>
                             </div>        
-                            <p>Optimiser votre site pour qu'il remonte dans les résultats de recherche, obtenir plus de clients grâce au trafic sur votre site</p>
+                            <p>J'optimiser votre site pour qu'il remonte dans les résultats de recherche, afin d'obtenir plus de clients dans votre trafic</p>
                         </div>
                         <div className='text-side--article'>
                             <div className='text-side--article-display'>

@@ -8,7 +8,7 @@ const Vitae = () => {
                 <div className='article--title'>
                     <h2>Information</h2>
                 </div>
-                <figure>
+                <figure className='article--img'>
                     <img src={Cv} alt='cv'/>
                 </figure>
 
